@@ -20,6 +20,6 @@ class Solution:
       j++
 
     if i == i_lim:
-      return true
-    return false
+      return True
+    return False
       
